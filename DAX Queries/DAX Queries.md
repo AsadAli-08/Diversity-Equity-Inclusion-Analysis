@@ -1,4 +1,4 @@
-a) **Female Representation**
+**a) Female Representation**
 
       1) ###Female Count =
                         VAR Female_Count =
@@ -28,7 +28,7 @@ a) **Female Representation**
 
 
    
-b) Opportunity Equity
+**b) Opportunity Equity**
 
       1) Promotion % Female =
                   VAR prom_count =
@@ -117,10 +117,10 @@ b) Opportunity Equity
 
 
 
-c) Female Leadership
+**c) Female Leadership**
 
-d) Attrition Bias
+**d) Attrition Bias**
 
-e) Pay Equity
+**e) Pay Equity**
 
-f) DEI Scorecard
+**f) DEI Scorecard**
