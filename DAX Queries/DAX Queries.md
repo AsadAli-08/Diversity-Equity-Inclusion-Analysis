@@ -268,19 +268,16 @@
             4) Mobility Equity Score =
                         MIN ( 1, DIVIDE ( [Mobility % Female], [Mobility % Male], 0 ) )
                         
+         
 
-            5) Opportunity Score =
-                        divide( 0.6 * [Promotion Equity Score] + 0.4 * [Mobility Equity Score], 2, 0) 
-                        
-
-            6) Attrition Equity Score = 
+            5) Attrition Equity Score = 
                         MAX ( 0, 1 - ABS([Attrition Gap]) )
 
 
-            7) Pay Equity Score =
+            6) Pay Equity Score =
                         MAX ( 0, 1 - ABS([Pay Gap]) )
 
 
-            8) Overall DEI Score =
-                        0.2 * [Representation Score] + 0.25 * [Leadership Score] + .25 * [Opportunity Score] + .15 * [Attrition Equity Score] + .15 * [Pay Equity Score]
+            7) Overall DEI Score =
+                        0.2 * [Representation Score] + 0.25 * [Leadership Score] + .15 * [Promotion Equity Score] + .10 * [Mobility Equity Score] + .15 * [Attrition Equity Score] + .15 * [Pay Equity Score] 
 
