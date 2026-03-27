@@ -1,6 +1,6 @@
 **a) Female Representation**
 
-      1) Female Count =
+      1) **Female Count** =
                         VAR Female_Count =
                             CALCULATE (
                                 COUNT ( PR_DIV_FACT_EMPLOYEE_MASTER[Emp_ID] ),
