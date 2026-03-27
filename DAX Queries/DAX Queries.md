@@ -252,3 +252,35 @@
                         ( [Avg Pay Male] - [Avg Pay Female] ) / [Avg Pay Male]
 
 **f) DEI Scorecard**
+
+            1) Representation Score =
+                        MIN ( 1, [Female %] / 0.2 )
+
+
+            2) Leadership Score = 
+                        MIN ( 1, [Female Leadership %] / 0.1)
+                        
+
+            3) Promotion Equity Score =
+                        MIN ( 1, DIVIDE ( [Promotion % Female], [Promotion % Male], 0 ) )
+                        
+
+            4) Mobility Equity Score =
+                        MIN ( 1, DIVIDE ( [Mobility % Female], [Mobility % Male], 0 ) )
+                        
+
+            5) Opportunity Score =
+                        DIVIDE ( [Promotion Equity Score] + [Mobility Equity Score], 2, 0 )
+                        
+
+            6) Attrition Equity Score = 
+                        1 - abs([Attrition Gap])
+
+
+            7) Pay Equity Score =
+                        MIN ( 1, DIVIDE ( [Avg Pay Female], [Avg Pay Male], 0 ) )
+
+
+            8) Overall DEI Score =
+                        0.2 * [Representation Score] + 0.2 * [Leadership Score] + .2 * [Opportunity Score] + .2 * [Attrition Equity Score] + .2 * [Pay Equity Score]
+
