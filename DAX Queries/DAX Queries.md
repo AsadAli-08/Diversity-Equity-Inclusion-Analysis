@@ -274,7 +274,7 @@
                         
 
             6) Attrition Equity Score = 
-                        1 - abs([Attrition Gap])
+                        MAX ( 0, 1 - ABS([Attrition Gap]) )
 
 
             7) Pay Equity Score =
