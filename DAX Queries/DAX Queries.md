@@ -185,7 +185,51 @@
                             DIVIDE ( attrition_count, headcount, 0 )
 
 
-            2) 
+            2) Attrition Rate Female =
+                        VAR attrition_count =
+                            CALCULATE (
+                                COUNT ( PR_DIV_FACT_EMPLOYEE_MASTER[EMP_ID] ),
+                                FILTER (
+                                    PR_DIV_FACT_EMPLOYEE_MASTER,
+                                    PR_DIV_FACT_EMPLOYEE_MASTER[EXIT_DATE] >= MIN ( DIM_DATE_TABLE[Date] )
+                                        && PR_DIV_FACT_EMPLOYEE_MASTER[EXIT_DATE] <= MAX ( DIM_DATE_TABLE[Date] )
+                                        && PR_DIV_FACT_EMPLOYEE_MASTER[Gender] = "Female"
+                                )
+                            )
+                        VAR headcount =
+                            (
+                                CALCULATE (
+                                    COUNT ( PR_DIV_FACT_EMPLOYEE_MASTER[EMP_ID] ),
+                                    FILTER (
+                                        PR_DIV_FACT_EMPLOYEE_MASTER,
+                                        PR_DIV_FACT_EMPLOYEE_MASTER[DOJ] <= MIN ( DIM_DATE_TABLE[Date] )
+                                            && (
+                                                ISBLANK ( PR_DIV_FACT_EMPLOYEE_MASTER[EXIT_DATE] )
+                                                    || PR_DIV_FACT_EMPLOYEE_MASTER[EXIT_DATE] > MIN ( DIM_DATE_TABLE[Date] )
+                                            )
+                                            && PR_DIV_FACT_EMPLOYEE_MASTER[Gender] = "Female"
+                                    )
+                                )
+                                    + CALCULATE (
+                                        COUNT ( PR_DIV_FACT_EMPLOYEE_MASTER[EMP_ID] ),
+                                        FILTER (
+                                            PR_DIV_FACT_EMPLOYEE_MASTER,
+                                            PR_DIV_FACT_EMPLOYEE_MASTER[DOJ] <= MAX ( DIM_DATE_TABLE[Date] )
+                                                && (
+                                                    ISBLANK ( PR_DIV_FACT_EMPLOYEE_MASTER[EXIT_DATE] )
+                                                        || PR_DIV_FACT_EMPLOYEE_MASTER[EXIT_DATE] > MAX ( DIM_DATE_TABLE[Date] )
+                                                )
+                                                && PR_DIV_FACT_EMPLOYEE_MASTER[Gender] = "Female"
+                                        )
+                                    )
+                            ) / 2
+                        RETURN
+                            DIVIDE ( attrition_count, headcount, 0 )
+
+
+            3) Attrition Gap = 
+                        [Attrition Rate Female] - [Attrition Rate Male]
+
 
 
 **e) Pay Equity**
