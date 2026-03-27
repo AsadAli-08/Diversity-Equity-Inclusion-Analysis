@@ -1,6 +1,6 @@
 **a) Female Representation**
 
-      1) ###Female Count =
+      1) Female Count =
                         VAR Female_Count =
                             CALCULATE (
                                 COUNT ( PR_DIV_FACT_EMPLOYEE_MASTER[Emp_ID] ),
@@ -118,6 +118,28 @@
 
 
 **c) Female Leadership**
+
+            1) Female Leader Count =
+                              CALCULATE (
+                                  COUNT ( PR_DIV_FACT_EMPLOYEE_MASTER[Emp_ID] ),
+                                  PR_DIV_FACT_EMPLOYEE_MASTER[Active] = "Y"
+                                      && PR_DIV_FACT_EMPLOYEE_MASTER[Level] = "Leadership"
+                                      && PR_DIV_FACT_EMPLOYEE_MASTER[Gender] = "Female"
+                              )
+
+
+            2) Female Count =
+                        VAR Female_Count =
+                            CALCULATE (
+                                COUNT ( PR_DIV_FACT_EMPLOYEE_MASTER[Emp_ID] ),
+                                PR_DIV_FACT_EMPLOYEE_MASTER[Active] = "Y"
+                                    && PR_DIV_FACT_EMPLOYEE_MASTER[Gender] = "Female"
+                            )
+                        RETURN
+                            Female_Count
+
+            3) Female Leadership % = 
+                              [Female Leader Count] / [Female Count]
 
 **d) Attrition Bias**
 
