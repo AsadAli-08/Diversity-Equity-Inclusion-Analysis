@@ -234,4 +234,21 @@
 
 **e) Pay Equity**
 
+            1) Avg Pay Male =
+                        CALCULATE (
+                            AVERAGE ( PR_DIV_FACT_EMPLOYEE_MASTER[SALARY] ),
+                            PR_DIV_FACT_EMPLOYEE_MASTER[Gender] = "Male",
+                            PR_DIV_FACT_EMPLOYEE_MASTER[Active] = "Y"
+                        )
+
+            2) Avg Pay Female =
+                        CALCULATE (
+                            AVERAGE ( PR_DIV_FACT_EMPLOYEE_MASTER[SALARY] ),
+                            PR_DIV_FACT_EMPLOYEE_MASTER[Gender] = "Female",
+                            PR_DIV_FACT_EMPLOYEE_MASTER[Active] = "Y"
+                        )
+
+            3) Pay Gap =
+                        ( [Avg Pay Male] - [Avg Pay Female] ) / [Avg Pay Male]
+
 **f) DEI Scorecard**
