@@ -1,4 +1,4 @@
-# Diversity Equity & Inclusion Analysis (Power BI + SQL + Python)
+# Diversity Equity & Inclusion Analysis
 
 ## Project Overview
 
