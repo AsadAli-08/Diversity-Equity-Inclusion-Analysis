@@ -143,6 +143,51 @@
 
 **d) Attrition Bias**
 
+            1) Attrition Rate Male =
+                        VAR attrition_count =
+                            CALCULATE (
+                                COUNT ( PR_DIV_FACT_EMPLOYEE_MASTER[EMP_ID] ),
+                                FILTER (
+                                    PR_DIV_FACT_EMPLOYEE_MASTER,
+                                    PR_DIV_FACT_EMPLOYEE_MASTER[EXIT_DATE] >= MIN ( DIM_DATE_TABLE[Date] )
+                                        && PR_DIV_FACT_EMPLOYEE_MASTER[EXIT_DATE] <= MAX ( DIM_DATE_TABLE[Date] )
+                                        && PR_DIV_FACT_EMPLOYEE_MASTER[Gender] = "Male"
+                                )
+                            )
+                        VAR headcount =
+                            (
+                                CALCULATE (
+                                    COUNT ( PR_DIV_FACT_EMPLOYEE_MASTER[EMP_ID] ),
+                                    FILTER (
+                                        PR_DIV_FACT_EMPLOYEE_MASTER,
+                                        PR_DIV_FACT_EMPLOYEE_MASTER[DOJ] <= MIN ( DIM_DATE_TABLE[Date] )
+                                            && (
+                                                ISBLANK ( PR_DIV_FACT_EMPLOYEE_MASTER[EXIT_DATE] )
+                                                    || PR_DIV_FACT_EMPLOYEE_MASTER[EXIT_DATE] > MIN ( DIM_DATE_TABLE[Date] )
+                                            )
+                                            && PR_DIV_FACT_EMPLOYEE_MASTER[Gender] = "Male"
+                                    )
+                                )
+                                    + CALCULATE (
+                                        COUNT ( PR_DIV_FACT_EMPLOYEE_MASTER[EMP_ID] ),
+                                        FILTER (
+                                            PR_DIV_FACT_EMPLOYEE_MASTER,
+                                            PR_DIV_FACT_EMPLOYEE_MASTER[DOJ] <= MAX ( DIM_DATE_TABLE[Date] )
+                                                && (
+                                                    ISBLANK ( PR_DIV_FACT_EMPLOYEE_MASTER[EXIT_DATE] )
+                                                        || PR_DIV_FACT_EMPLOYEE_MASTER[EXIT_DATE] > MAX ( DIM_DATE_TABLE[Date] )
+                                                )
+                                                && PR_DIV_FACT_EMPLOYEE_MASTER[Gender] = "Male"
+                                        )
+                                    )
+                            ) / 2
+                        RETURN
+                            DIVIDE ( attrition_count, headcount, 0 )
+
+
+            2) 
+
+
 **e) Pay Equity**
 
 **f) DEI Scorecard**
