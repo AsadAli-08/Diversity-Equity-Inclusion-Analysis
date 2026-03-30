@@ -242,42 +242,25 @@ DEI Score =
 
 ## Key Insights
 
-### 1. DEI Overview
+The DEI analysis reveals a declining overall DEI performance, driven by structural gaps across representation, leadership, and opportunity dimensions. While some improvement is observed in pay and mobility equity, significant disparities persist across the employee lifecycle.
 
-*  The overall DEI score has shown a declining trend over the years.
-*  The analysis indicates inequities across all key dimensions.
-*  The most significant gaps are observed in overall female representation and leadership participation.
-*  Relatively better performance is observed in pay equity and mobility equity.
-*  Technical functions such as Engineering & Commissioning exhibit lower DEI scores compared to non technical functions.
-*  Regionally, the Eastern and Northern regions are the weakest performers, while the Central and Southern regions have performed better.
-  
----
+*  Declining Diversity & Leadership Pipeline:
 
-### 2. Female Representation
+   Female workforce participation and leadership representation have both declined over time, with uniformly low presence across grades indicating weak progression rather than entry-level imbalance.
+*  Opportunity Inequity as Root Cause:
 
+   Increasing promotion and mobility gaps highlight restricted access to career advancement for women, particularly in technical functions, directly impacting leadership diversity.
+*  Higher Attrition Among Women:
 
+   A  rising attrition gap—especially at senior levels—suggests retention challenges for women in leadership roles, further weakening the pipeline.
+*  Function & Region-Based Disparities:
 
----
+   Technical functions (Engineering, Manufacturing, Commissioning) consistently underperform across DEI metrics, while non-technical functions (HR, Finance, Marketing) show relatively better outcomes.
+   Regionally, Eastern and Northern regions emerge as key risk areas, whereas Central and Southern regions perform comparatively better.
+*  Mixed Pay Equity Outcomes:
 
-### 3. Opportunity Equity
+   While overall pay gaps are relatively moderate, disparities exist across levels and functions, indicating inconsistent compensation equity rather than systemic bias.
 
-
-
----
-
-### 4. Female Leadership
-
-
-
----
-
-### 5. Attrition Bias
-
-
-
----
-
-### 6. Pay Equity
 
 
 
