@@ -181,8 +181,8 @@ DEI Score =
 ### 3. Opportunity Equity
 
 * Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
-* KPI:
-* Visuals:
+* KPI: Promotion % Gap/ Mobility % Gap
+* Visuals: Promotion & Mobility Gap % Trend (5 Years)/ Female % by Management Level/ Promotion % Gap Heatmap (Unit vs Job Family)/ Mobility Gap % by Job Family
 
 ---
 
