@@ -147,86 +147,65 @@ Oracle SQl --> Power Query --> DAX --> Power BI
 
 ---
 
-
-
----
-
 ## DEI Score Framework
 
-A composite index combining key dimensions:
-
-```
 DEI Score =
-(Representation × 25%) +
-(Leadership × 25%) +
-(Attrition Equity × 15%) +
-(Pay Equity × 15%) +
-(Opportunity Equity × 20%)
-```
-
----
-
-## Equity Score Logic
-
-| Component      | Formula           |
-| -------------- | ----------------- |
-| Representation | Actual / Target   |
-| Leadership     | Actual / Target   |
-| Attrition      | 1 - ABS(Gap)      |
-| Pay            | 1 - ABS(Gap)      |
-| Promotion      | Female % / Male % |
-| Mobility       | Female % / Male % |
+        (Representation Equiry Score * 20%) +
+        (Leadership Equity Score * 25%) +
+        (Attrition Equity Score * 15%) +
+        (Pay Equity Score * 15%) +
+        (Promotion Equity Score * 15%) +
+        (Mobility Equity Score * 10%)
 
 ---
 
 ## Dashboard Pages
 
-### 1. Executive Summary
+### 1. DEI Overview
 
-* KPI overview
-* Trend vs target
-* Key risks
-* Top action areas
+* Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
+* KPI:
+* Visuals:
+  
+---
+
+### 2. Female Representation
+
+* Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
+* KPI:
+* Visuals:
 
 ---
 
-### 2. DEI Overview
+### 3. Opportunity Equity
 
-* Workforce representation
-* Leadership diversity
-* Gap vs target
-
----
-
-### 3. Career Progression
-
-* Pipeline analysis
-* Promotion trends
-* Mobility insights
+* Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
+* KPI:
+* Visuals:
 
 ---
 
-### 4. Attrition Bias
+### 4. Female Leadership
 
-* Gender-based attrition
-* Grade / tenure analysis
-* Department heatmap
-
----
-
-### 5. Pay Equity
-
-* Salary comparison
-* Pay gap by grade & function
-* Distribution analysis
+* Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
+* KPI:
+* Visuals:
 
 ---
 
-### 6. DEI Scorecard
+### 5. Attrition Bias
 
-* Metrics vs targets
-* Gap analysis
-* RAG status indicators
+* Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
+* KPI:
+* Visuals:
+
+---
+
+### 6. Pay Equity
+
+* Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
+* KPI:
+* Visuals:
 
 ---
 
