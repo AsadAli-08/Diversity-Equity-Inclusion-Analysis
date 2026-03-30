@@ -205,8 +205,8 @@ DEI Score =
 ### 6. Pay Equity
 
 * Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
-* KPI: Attrition Gap %/ Attrition Rate Male/ Attrition Rate Female
-* Visuals: Attrition Gap% Trend (5 Years)/ Attrition Gap% by Management Level/  Attrition Gap% by Region/ Attrition Gap% by Tenure Band/ Attrition Gap% Heatmap (Unit vs Job Family)
+* KPI: Male Avg. Salary (As on Date)/ Female Avg. Salary (As on Date)/ Pay Gap %
+* Visuals: Pay Gap % by Management Level/ Pay Gap % Heatmap (Unit vs Job Family)/ Pay Gap % by Job Family/ Pay Gap % by Region
 
 ---
 
