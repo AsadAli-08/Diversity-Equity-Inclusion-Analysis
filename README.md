@@ -132,16 +132,18 @@ Oracle SQl --> Power Query --> DAX --> Power BI
 ### Attrition Bias
 
 * Gender wise Attrition Rate (5-year window) = Total Attritions in period / Average Manpower Count in period
-* Attrition Gap =  Female Attrition % - Male Attrition %
+* Attrition Gap % =  Female Attrition % - Male Attrition %
 * Attrition Gap by Date/ Management Level/ Region/ Tenure Band/ Unit/ Job Family
-* Attrition Equity Score = 1 - abs(Attrition Gap)
+* Attrition Equity Score = 1 - abs(Attrition Gap%)
 
 ---
 
 ### Pay Equity
 
-* Avg Salary (Male vs Female)
-* Pay Gap %
+* Gender wise Avg Salary = Sum of Salary as on Date / Total Active Manpower as on Date
+* Pay Gap % = (Avg Male Salary - Avg Female Salary) / Avg Male Salary
+* Pay Gap by Management Level/ Unit/ Job Family/ Region
+* Pay Equity Score = 1 - abs(Pay Gap%)
 
 ---
 
