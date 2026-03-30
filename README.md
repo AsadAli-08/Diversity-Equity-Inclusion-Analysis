@@ -98,7 +98,7 @@ Oracle SQl --> Power Query --> DAX --> Power BI
 
 ## Key Metrics
 
-### Representation
+### Workforce Representation
 
 * Female Workforce % as on Today/ Key Date
 * Female Count as on Key Date
@@ -106,7 +106,18 @@ Oracle SQl --> Power Query --> DAX --> Power BI
 
 ---
 
-### Leadership Diversity
+### Opportunity Equity
+
+* Gender wise Promotion Rate (5-year window)
+* Promotion Gap (Male Promotion % - Female Promotion %)
+* Female Promotion % by Management Level (Leadership/ Middle Management/ Entry Level/ Support Staff)
+* Gender wise Mobility Rate (Role/Location/Dept changes)
+* Mobility Gap (Male Mobility % - Female Mobility %)
+* Mobility Equity Score =  min(1, Female Mobility % / Male Mobility %)
+
+---
+
+### Female Leadership
 
 * Female Leadership % (E7+)
 * Pipeline leakage across grades
@@ -128,11 +139,7 @@ Oracle SQl --> Power Query --> DAX --> Power BI
 
 ---
 
-### Opportunity Equity
 
-* Promotion Rate (5-year window)
-* Mobility Rate (Role/Location/Dept changes)
-* **Opportunity Score**
 
 ---
 
