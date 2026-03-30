@@ -215,11 +215,11 @@ DEI Score =
 ### 1. DEI Overview
 
 *  The overall DEI score has shown a declining trend over the years.
-*  The analysis indicates inequities across all key dimensions, including workforce representation, leadership participation, attrition, pay, and opportunity.
+*  The analysis indicates inequities across all key dimensions.
 *  The most significant gaps are observed in overall female representation and leadership participation.
 *  Relatively better performance is observed in pay equity and mobility equity.
-*  Technical functions such as Engineering, Commissioning, and IT exhibit lower DEI scores compared to functions like Marketing, Finance, and HR.
-*  Regionally, the Eastern and Northern regions are the weakest performers, while the Central and Southern regions demonstrate relatively stronger DEI outcomes.
+*  Technical functions such as Engineering & Commissioning exhibit lower DEI scores compared to non technical functions.
+*  Regionally, the Eastern and Northern regions are the weakest performers, while the Central and Southern regions have performed better.
   
 ---
 
