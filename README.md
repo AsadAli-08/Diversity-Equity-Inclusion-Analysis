@@ -24,9 +24,11 @@ By highlighting gaps, identifying root causes, and prioritizing action areas, th
 * Evaluate opportunity equity in career progression:
   
   Analyze promotion and mobility equity by comparing rates across genders to identify disparities in access to growth opportunities.
-* Evaluate pay equity across comparable groups
+* Evaluate pay equity across comparable groups:
+  
   Analyze salary differences between genders across grades, region, unit and job family to assess compensation fairness.
-* Develop a composite DEI score for decision-making
+* Develop a composite DEI score for decision-making:
+  
   Integrate multiple DEI dimensions into a single, standardized metric to track performance and guide strategic actions.
 
 ---
