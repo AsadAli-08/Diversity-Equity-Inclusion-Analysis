@@ -243,6 +243,9 @@ DEI Score =
 
 ### 4. Female Leadership
 
+*  Female Leadership participation has exhibited a declining trend over the years.
+*  The analysis indicates relatively uniform female Leaderhsip representation across Leadership grades.
+*  From a regional perspective, the Eastern and Northern regions are the weakest performers, while the Central and Southern regions demonstrate stronger female representation.
 
 ---
 
