@@ -72,10 +72,27 @@ Oracle SQl --> Power Query --> DAX --> Power BI
 ###  Dimension Tables
 
 * DIM_Location_Master
+  *  Location Code
+  *  Location Name
+
 * DIM_Role_Master
+  *  Role ID
+  *  Role Name
+  
 * DIM_Job_Master
+  * Job ID
+  * Job Family Name
+  
 * DIM_Unit_Master
+  * Unit Code
+  * Unit Name
+    
 * DIM_Grade_Master
+  *  Grade Code
+  *  Grade Name
+  *  Cadre Code
+  *  Cadre Name
+  *  Management Level
 
 ---
 
