@@ -18,9 +18,11 @@ By highlighting gaps, identifying root causes, and prioritizing action areas, th
 * Assess leadership pipeline and progression equity:
   
   Evaluate representation at senior levels and identify structural barriers in promotions and mobility.
-* Identify attrition bias and retention risks
+* Identify attrition bias and retention risks:
+  
   Detect disparities in attrition rates across gender, grade, region, unit, function, and tenure to uncover inclusion challenges.
-* Evaluate opportunity equity in career progression
+* Evaluate opportunity equity in career progression:
+  
   Analyze promotion and mobility equity by comparing rates across genders to identify disparities in access to growth opportunities.
 * Evaluate pay equity across comparable groups
   Analyze salary differences between genders across grades, region, unit and job family to assess compensation fairness.
