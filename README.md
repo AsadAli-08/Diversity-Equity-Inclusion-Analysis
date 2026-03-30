@@ -47,7 +47,7 @@ Oracle SQl --> Power Query --> DAX --> Power BI
 
 ###  Fact Table
 
-* `FACT_EMPLOYEE_MASTER`
+* `FACT_Employee_Master`
 
   * Emp_ID
   * Emp_Name
@@ -71,7 +71,11 @@ Oracle SQl --> Power Query --> DAX --> Power BI
 
 ###  Dimension Tables
 
-* 
+* DIM_Location_Master
+* DIM_Role_Master
+* DIM_Job_Master
+* DIM_Unit_Master
+* DIM_Grade_Master
 
 ---
 
