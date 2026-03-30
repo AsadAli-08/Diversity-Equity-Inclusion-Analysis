@@ -183,7 +183,11 @@ DEI Score =
 * Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
 * KPI: Female Workforce % / Active Female Count
 * Visuals: Female Workforce % Trend (5 Years)/ Female Workforce % by Cadre-Grade/ Female Workforce % Heatmap (Unit vs Job Family)/ Female Workforce % by Job Family
-* Key Observations: 
+* Key Observations:
+    *  Female workforce participation has exhibited a declining trend over the years.
+    *  The analysis indicates relatively uniform female representation across grades.
+    *  Technical functions such as Engineering and Manufacturing show significantly lower female participation compared to non-technical functions like HR and Finance.
+    *  From a regional perspective, the Central and Western regions are the weakest performers, while the Eastern and Southern regions demonstrate stronger female representation.
 
 ---
 
@@ -193,6 +197,10 @@ DEI Score =
 * KPI: Promotion % Gap/ Mobility % Gap
 * Visuals: Promotion & Mobility Gap % Trend (5 Years)/ Female % by Management Level/ Promotion % Gap Heatmap (Unit vs Job Family)/ Mobility Gap % by Job Family
 * Key Observations:
+    *  Mobility and promotion gaps have shown an increasing trend over the years, indicating widening disparities in access to career growth opportunities.
+    *  The analysis suggests relatively uniform female representation across management levels, highlighting limited advancement rather than concentration at specific levels.
+    *  Technical functions such as Engineering and Commissioning exhibit significantly lower female mobility compared to non-technical functions like HR and Marketing.
+    *  From a regional perspective, the Central and Southern regions are the weakest performers, while the Eastern and Northern regions demonstrate relatively stronger mobility and promotion outcomes for women.
 
 ---
 
@@ -202,6 +210,9 @@ DEI Score =
 * KPI: Female Workforce %/ Female Leadership%/ Female Leader Count
 * Visuals: Female Leadership Trend (5 Years)/ Female % in Leadership Grades/ Female Leadership % by Region/ Female Leadership % by Job Family
 * Key Observations:
+    *  Female leadership participation has shown a declining trend over the years.
+    *  The analysis indicates relatively uniform female representation across leadership grades, suggesting limited progression rather than concentration at specific levels.
+    *  From a regional perspective, the Eastern and Northern regions are the weakest performers, while the Central and Southern regions demonstrate relatively stronger female leadership representation.
 
 ---
 
@@ -211,6 +222,9 @@ DEI Score =
 * KPI: Attrition Gap %/ Attrition Rate Male/ Attrition Rate Female
 * Visuals: Attrition Gap% Trend (5 Years)/ Attrition Gap% by Management Level/  Attrition Gap% by Region/ Attrition Gap% by Tenure Band/ Attrition Gap% Heatmap (Unit vs Job Family)
 * Key Observations:
+    *  The attrition gap has shown an increasing trend over the years, indicating a growing disparity in retention between genders.
+    *  The gap is most pronounced in leadership roles and lowest at entry-level positions, suggesting higher retention challenges for women at senior levels.
+    *  From a regional perspective, the Eastern and Northern regions are the weakest performers, while the Southern and Western regions demonstrate relatively stronger retention outcomes for women.
 
 ---
 
@@ -220,6 +234,9 @@ DEI Score =
 * KPI: Male Avg. Salary (As on Date)/ Female Avg. Salary (As on Date)/ Pay Gap %
 * Visuals: Pay Gap % by Management Level/ Pay Gap % Heatmap (Unit vs Job Family)/ Pay Gap % by Job Family/ Pay Gap % by Region
 * Key Observations:
+    *  Females relatively earn more than males at Leadership & Entry Level while Males earn higher at Middle Management & Support Staff Level.
+    *  Female earn more in Technical functions like Commissioning & Engineering while earn less in Finance & HR.
+    *  Females earn less than males in all regions except northern region. 
 
 ---
 
@@ -238,43 +255,31 @@ DEI Score =
 
 ### 2. Female Representation
 
-*  Female workforce participation has exhibited a declining trend over the years.
-*  The analysis indicates relatively uniform female representation across grades.
-*  Technical functions such as Engineering and Manufacturing show significantly lower female participation compared to non-technical functions like HR and Finance.
-*  From a regional perspective, the Central and Western regions are the weakest performers, while the Eastern and Southern regions demonstrate stronger female representation.
+
 
 ---
 
 ### 3. Opportunity Equity
 
-*  Mobility and promotion gaps have shown an increasing trend over the years, indicating widening disparities in access to career growth opportunities.
-*  The analysis suggests relatively uniform female representation across management levels, highlighting limited advancement rather than concentration at specific levels.
-*  Technical functions such as Engineering and Commissioning exhibit significantly lower female mobility compared to non-technical functions like HR and Marketing.
-*  From a regional perspective, the Central and Southern regions are the weakest performers, while the Eastern and Northern regions demonstrate relatively stronger mobility and promotion outcomes for women.
+
 
 ---
 
 ### 4. Female Leadership
 
-*  Female leadership participation has shown a declining trend over the years.
-*  The analysis indicates relatively uniform female representation across leadership grades, suggesting limited progression rather than concentration at specific levels.
-*  From a regional perspective, the Eastern and Northern regions are the weakest performers, while the Central and Southern regions demonstrate relatively stronger female leadership representation.
+
 
 ---
 
 ### 5. Attrition Bias
 
-*  The attrition gap has shown an increasing trend over the years, indicating a growing disparity in retention between genders.
-*  The gap is most pronounced in leadership roles and lowest at entry-level positions, suggesting higher retention challenges for women at senior levels.
-*  From a regional perspective, the Eastern and Northern regions are the weakest performers, while the Southern and Western regions demonstrate relatively stronger retention outcomes for women.
+
 
 ---
 
 ### 6. Pay Equity
 
-*  Females relatively earn more than males at Leadership & Entry Level while Males earn higher at Middle Management & Support Staff Level.
-*  Female earn more in Technical functions like Commissioning & Engineering while earn less in Finance & HR.
-*  Females earn less than males in all regions except northern region. 
+
 
 
 
