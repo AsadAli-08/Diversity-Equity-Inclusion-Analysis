@@ -122,7 +122,8 @@ Oracle SQl --> Power Query --> DAX --> Power BI
 
 ### Female Leadership
 
-* Female Leadership % (E7+)
+* Female Leader Count =  Active Females in Leadership Grades (E8 to E11)
+* Female Leadership % = Active Females in Leadership Grades/ Active Manpower Count in Leadership Grades
 * Pipeline leakage across grades
 
 ---
