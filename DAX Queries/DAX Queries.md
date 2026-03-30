@@ -1,6 +1,8 @@
-# **a) Female Representation**
+# Data Analysis Expressions used in the Project
 
-     ## 1) Female Count =
+## **a) Female Representation**
+
+     ### 1) Female Count =
                         VAR Female_Count =
                             CALCULATE (
                                 COUNT ( PR_DIV_FACT_EMPLOYEE_MASTER[Emp_ID] ),
