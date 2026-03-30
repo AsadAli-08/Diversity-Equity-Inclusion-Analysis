@@ -167,6 +167,14 @@ DEI Score =
 * Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
 * KPI: Overall DEI Score/ Female Workforce %/ Female Leadership %/ Attrition Gap %/ Pay Gap %/ Promotion Gap %/ Mobility Gap %
 * Visuals: DEI Score Trend (5 Years)/ DEI Score by Job Family/ DEI Scorecard/ DEI Score Heatmap (Unit vs Jobfamily)
+* Key Observations:
+    *  The overall DEI score has shown a declining trend over the years.
+    *  The analysis indicates inequities across all key dimensions.
+    *  The most significant gaps are observed in overall female representation and leadership participation.
+    *  Relatively better performance is observed in pay equity and mobility equity.
+    *  Technical functions such as Engineering & Commissioning exhibit lower DEI scores compared to non technical functions.
+    *  Regionally, the Eastern and Northern regions are the weakest performers, while the Central and Southern regions have performed better.
+  
   
 ---
 
@@ -174,7 +182,8 @@ DEI Score =
 
 * Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
 * KPI: Female Workforce % / Active Female Count
-* Visuals: Female Workforce % Trend (5 Years)/ Female Workforce % by Cadre-Grade/ Female Workforce % Heatmap (Unit vs Job Family)/ Female Workforce % by Job Family 
+* Visuals: Female Workforce % Trend (5 Years)/ Female Workforce % by Cadre-Grade/ Female Workforce % Heatmap (Unit vs Job Family)/ Female Workforce % by Job Family
+* Key Observations: 
 
 ---
 
@@ -183,6 +192,7 @@ DEI Score =
 * Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
 * KPI: Promotion % Gap/ Mobility % Gap
 * Visuals: Promotion & Mobility Gap % Trend (5 Years)/ Female % by Management Level/ Promotion % Gap Heatmap (Unit vs Job Family)/ Mobility Gap % by Job Family
+* Key Observations:
 
 ---
 
@@ -191,6 +201,7 @@ DEI Score =
 * Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
 * KPI: Female Workforce %/ Female Leadership%/ Female Leader Count
 * Visuals: Female Leadership Trend (5 Years)/ Female % in Leadership Grades/ Female Leadership % by Region/ Female Leadership % by Job Family
+* Key Observations:
 
 ---
 
@@ -199,6 +210,7 @@ DEI Score =
 * Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
 * KPI: Attrition Gap %/ Attrition Rate Male/ Attrition Rate Female
 * Visuals: Attrition Gap% Trend (5 Years)/ Attrition Gap% by Management Level/  Attrition Gap% by Region/ Attrition Gap% by Tenure Band/ Attrition Gap% Heatmap (Unit vs Job Family)
+* Key Observations:
 
 ---
 
@@ -207,6 +219,7 @@ DEI Score =
 * Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
 * KPI: Male Avg. Salary (As on Date)/ Female Avg. Salary (As on Date)/ Pay Gap %
 * Visuals: Pay Gap % by Management Level/ Pay Gap % Heatmap (Unit vs Job Family)/ Pay Gap % by Job Family/ Pay Gap % by Region
+* Key Observations:
 
 ---
 
@@ -259,7 +272,9 @@ DEI Score =
 
 ### 6. Pay Equity
 
-
+*  Females relatively earn more than males at Leadership & Entry Level while Males earn higher at Middle Management & Support Staff Level.
+*  Female earn more in Technical functions like Commissioning & Engineering while earn less in Finance & HR.
+*  Females earn less than males in all regions except northern region. 
 
 
 
