@@ -243,18 +243,25 @@ DEI Score =
 
 ### 4. Female Leadership
 
-*  Female Leadership participation has exhibited a declining trend over the years.
-*  The analysis indicates relatively uniform female Leaderhsip representation across Leadership grades.
-*  From a regional perspective, the Eastern and Northern regions are the weakest performers, while the Central and Southern regions demonstrate stronger female representation.
+*  Female leadership participation has shown a declining trend over the years.
+*  The analysis indicates relatively uniform female representation across leadership grades, suggesting limited progression rather than concentration at specific levels.
+*  From a regional perspective, the Eastern and Northern regions are the weakest performers, while the Central and Southern regions demonstrate relatively stronger female leadership representation.
 
 ---
 
 ### 5. Attrition Bias
 
+*  The attrition gap has shown an increasing trend over the years, indicating a growing disparity in retention between genders.
+*  The gap is most pronounced in leadership roles and lowest at entry-level positions, suggesting higher retention challenges for women at senior levels.
+*  From a regional perspective, the Eastern and Northern regions are the weakest performers, while the Southern and Western regions demonstrate relatively stronger retention outcomes for women.
 
 ---
 
 ### 6. Pay Equity
+
+
+
+
 
 ---
 
