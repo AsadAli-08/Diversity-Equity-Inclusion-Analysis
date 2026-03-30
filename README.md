@@ -47,12 +47,31 @@ Oracle SQl --> Power Query --> DAX --> Power BI
 
 ###  Fact Table
 
-* `PR_DIV_FACT_EMPLOYEE_MASTER`
+* `FACT_EMPLOYEE_MASTER`
 
-  * Employee attributes
-  * Salary, performance
-  * Promotion & movement dates
-  * Exit information
+  * Emp_ID
+  * Emp_Name
+  * Gender
+  * DOB
+  * Date of Joining
+  * Unit
+  * Location
+  * Region
+  * Department
+  * Role
+  * Job Family
+  * Cadre
+  * Grade
+  * Annual Salary
+  * Exit Date
+  * Last Promotion Date
+  * Last Role Change Date
+  * Last Location Change Date
+  * Last Department Change Date
+
+###  Dimension Tables
+
+* 
 
 ---
 
