@@ -123,16 +123,18 @@ Oracle SQl --> Power Query --> DAX --> Power BI
 ### Female Leadership
 
 * Female Leader Count =  Active Females in Leadership Grades (E8 to E11)
-* Female Leadership % = Active Females in Leadership Grades/ Active Manpower Count in Leadership Grades
-* Pipeline leakage across grades
+* Female Leadership % = Female Leader Count / Active Manpower Count in Leadership Grades (E8 to E11)
+* Female Leadership % by Date/ Leadership Grades (E8 to E11) / Region/ Job Family
+* Leadership Equity Score = Actual Female Leadership % / Target Female Leadership %  
 
 ---
 
 ### Attrition Bias
 
-* Attrition Rate (Male vs Female)
-* Attrition Gap %
-* Attrition by Grade / Tenure / Region
+* Gender wise Attrition Rate (5-year window) = Total Attritions in period / Average Manpower Count in period
+* Attrition Gap =  Female Attrition % - Male Attrition %
+* Attrition Gap by Date/ Management Level/ Region/ Tenure Band/ Unit/ Job Family
+* Attrition Equity Score = 1 - abs(Attrition Gap)
 
 ---
 
