@@ -173,8 +173,8 @@ DEI Score =
 ### 2. Female Representation
 
 * Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
-* KPI: 
-* Visuals:
+* KPI: Female Workforce % / Active Female Count
+* Visuals: Female Workforce % Trend (5 Years)/ Female Workforce % by Cadre-Grade/ Female Workforce % Heatmap (Unit vs Job Family)/ Female Workforce % by Job Family 
 
 ---
 
