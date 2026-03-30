@@ -150,6 +150,7 @@ Oracle SQl --> Power Query --> DAX --> Power BI
 ## DEI Score Framework
 
 DEI Score =
+
         (Representation Equiry Score * 20%) +
         (Leadership Equity Score * 25%) +
         (Attrition Equity Score * 15%) +
@@ -172,7 +173,7 @@ DEI Score =
 ### 2. Female Representation
 
 * Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
-* KPI:
+* KPI: 
 * Visuals:
 
 ---
