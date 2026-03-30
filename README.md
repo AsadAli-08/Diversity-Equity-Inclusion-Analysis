@@ -189,8 +189,8 @@ DEI Score =
 ### 4. Female Leadership
 
 * Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
-* KPI:
-* Visuals:
+* KPI: Female Workforce %/ Female Leadership%/ Female Leader Count
+* Visuals: Female Leadership Trend (5 Years)/ Female % in Leadership Grades/ Female Leadership % by Region/ Female Leadership % by Job Family
 
 ---
 
