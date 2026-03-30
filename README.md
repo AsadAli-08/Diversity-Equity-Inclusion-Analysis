@@ -261,10 +261,21 @@ The DEI analysis reveals a declining overall DEI performance, driven by structur
 
    While overall pay gaps are relatively moderate, disparities exist across levels and functions, indicating inconsistent compensation equity rather than systemic bias.
 
+---
 
+## Recommendations
 
-
-
+*  Launch targeted hiring initiatives for women in Engineering, Manufacturing, and Commissioning roles
+*  Partner with technical institutes and universities to build a diverse talent pipeline
+*  Set function-level diversity targets to improve representation at entry levels
+*  Implement structured promotion frameworks with transparency and clear eligibility criteria
+*  Introduce leadership development and mentorship programs for mid-career female employees
+*  Ensure equitable access to role rotations, critical assignments, and mobility opportunities
+*  Identify high-potential female employees early and create fast-track leadership programs
+*  Introduce retention initiatives such as flexible work policies, career break support, and return-to-work programs
+*  Implement region-specific DEI interventions in Eastern and Northern regions
+*  Review DEI metrics regularly at leadership level
+*  Integrate DEI KPIs into performance evaluation of business leaders
 
 ---
 
