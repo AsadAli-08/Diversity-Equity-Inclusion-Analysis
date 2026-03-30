@@ -234,6 +234,10 @@ DEI Score =
 
 ### 3. Opportunity Equity
 
+*  Mobility and promotion gaps have shown an increasing trend over the years, indicating widening disparities in access to career growth opportunities.
+*  The analysis suggests relatively uniform female representation across management levels, highlighting limited advancement rather than concentration at specific levels.
+*  Technical functions such as Engineering and Commissioning exhibit significantly lower female mobility compared to non-technical functions like HR and Marketing.
+*  From a regional perspective, the Central and Southern regions are the weakest performers, while the Eastern and Northern regions demonstrate relatively stronger mobility and promotion outcomes for women.
 
 ---
 
