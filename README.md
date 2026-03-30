@@ -164,8 +164,8 @@ DEI Score =
 ### 1. DEI Overview
 
 * Filters: Date/ Region/ Unit/ Location/ Cadre/ Grade/ Job Family/ Role
-* KPI:
-* Visuals:
+* KPI: Overall DEI Score/ Female Workforce %/ Female Leadership %/ Attrition Gap %/ Pay Gap %/ Promotion Gap %/ Mobility Gap %
+* Visuals: DEI Score Trend (5 Years)/ DEI Score by Job Family/ DEI Scorecard/ DEI Score Heatmap (Unit vs Jobfamily)
   
 ---
 
