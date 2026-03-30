@@ -100,8 +100,9 @@ Oracle SQl --> Power Query --> DAX --> Power BI
 
 ### Representation
 
-* Female Workforce %
-* Female Representation by Grade / Region / Function
+* Female Workforce % as on Today/ Key Date
+* Female Count as on Key Date
+* Female Workforce % by Date/ Cadre/ Grade/ Unit/ Job Family
 
 ---
 
