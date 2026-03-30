@@ -35,10 +35,12 @@ By highlighting gaps, identifying root causes, and prioritizing action areas, th
 
 ## Tools & Technology Used
 
-* **Oracle SQL** → Data storage & Extraction
-* **Power BI** → Data extraction, Transformation, Cleansing , Analysis & Visualization
-* **DAX** → Advanced metrics & Measures
+Oracle SQl --> Power Query --> DAX --> Power BI
 
+* **Oracle SQL** : Data storage & Data Extraction
+* **Power Query** : Data Extraction, Data Transformation & Data Cleaning
+* **Power BI** : Data Transformation, Data Modelling, Data Analysis & Data Visualization
+* **DAX** : Aggregations, Metrics & Calculations
 ---
 
 ## Data Model
