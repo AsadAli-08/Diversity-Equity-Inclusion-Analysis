@@ -100,8 +100,9 @@ Oracle SQl --> Power Query --> DAX --> Power BI
 
 ### Workforce Representation
 
-* Female Workforce % as on Today/ Key Date
-* Female Count as on Key Date
+* Female Active Count as on Key Date
+* Total Active Count as on Key Date
+* Female Workforce % as on Key Date = Female count as on Key Date / Total Active Manpower as on Key Date
 * Female Workforce % by Date/ Cadre/ Grade/ Unit/ Job Family
 
 ---
@@ -113,7 +114,8 @@ Oracle SQl --> Power Query --> DAX --> Power BI
 * Female Promotion % by Management Level (Leadership/ Middle Management/ Entry Level/ Support Staff)
 * Gender wise Mobility Rate (Role/Location/Dept changes)
 * Mobility Gap (Male Mobility % - Female Mobility %)
-* Mobility Equity Score =  min(1, Female Mobility % / Male Mobility %)
+* Promotion Equity Score = Female Promotion % / Male Promotion %
+* Mobility Equity Score =  Female Mobility % / Male Mobility %
 
 ---
 
