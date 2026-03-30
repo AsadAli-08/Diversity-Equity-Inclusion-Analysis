@@ -210,12 +210,41 @@ DEI Score =
 
 ---
 
-## Key Insights (Sample)
+## Key Insights
 
-* Female representation declines significantly at senior levels
-* Higher attrition observed among women in mid-career stages
-* Promotion and mobility gaps contribute to leadership imbalance
-* Technical functions show lower diversity levels
+### 1. DEI Overview
+
+*  The overall DEI score has shown a declining trend over the years.
+*  The analysis indicates inequities across all key dimensions, including workforce representation, leadership participation, attrition, pay, and opportunity.
+*  The most significant gaps are observed in overall female representation and leadership participation.
+*  Relatively better performance is observed in pay equity and mobility equity.
+*  Technical functions such as Engineering, Commissioning, and IT exhibit lower DEI scores compared to functions like Marketing, Finance, and HR.
+*  Regionally, the Eastern and Northern regions are the weakest performers, while the Central and Southern regions demonstrate relatively stronger DEI outcomes.
+  
+---
+
+### 2. Female Representation
+
+
+
+---
+
+### 3. Opportunity Equity
+
+
+---
+
+### 4. Female Leadership
+
+
+---
+
+### 5. Attrition Bias
+
+
+---
+
+### 6. Pay Equity
 
 ---
 
