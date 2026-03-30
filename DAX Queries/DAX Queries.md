@@ -2,7 +2,7 @@
 
 ## **a) Female Representation**
 
-     ### 1) Female Count =
+      1) Female Count =
                         VAR Female_Count =
                             CALCULATE (
                                 COUNT ( PR_DIV_FACT_EMPLOYEE_MASTER[Emp_ID] ),
@@ -30,7 +30,7 @@
 
 
    
-**b) Opportunity Equity**
+## **b) Opportunity Equity**
 
       1) Promotion % Female =
                   VAR prom_count =
@@ -119,7 +119,7 @@
 
 
 
-**c) Female Leadership**
+## **c) Female Leadership**
 
             1) Female Leader Count =
                               CALCULATE (
@@ -143,7 +143,7 @@
             3) Female Leadership % = 
                               [Female Leader Count] / [Female Count]
 
-**d) Attrition Bias**
+## **d) Attrition Bias**
 
             1) Attrition Rate Male =
                         VAR attrition_count =
@@ -234,7 +234,7 @@
 
 
 
-**e) Pay Equity**
+## **e) Pay Equity**
 
             1) Avg Pay Male =
                         CALCULATE (
@@ -253,7 +253,7 @@
             3) Pay Gap =
                         ( [Avg Pay Male] - [Avg Pay Female] ) / [Avg Pay Male]
 
-**f) DEI Scorecard**
+## **f) DEI Scorecard**
 
             1) Representation Score =
                         MIN ( 1, [Female %] / 0.2 )
