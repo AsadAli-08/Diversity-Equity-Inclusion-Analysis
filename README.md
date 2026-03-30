@@ -10,16 +10,18 @@ By highlighting gaps, identifying root causes, and prioritizing action areas, th
 
 ---
 
-## Objectives
+## Project Objectives
 
 * Measure workforce diversity and representation
-  Analyze gender distribution across grades, functions, and regions to identify gaps against defined targets.
+  Analyze gender distribution across grades, functions, roles, units, location and regions to identify gaps against defined DEI targets.
 * Assess leadership pipeline and progression equity
   Evaluate representation at senior levels and identify structural barriers in promotions and mobility.
 * Identify attrition bias and retention risks
-  Detect disparities in attrition rates across gender, tenure, and roles to uncover inclusion challenges.
+  Detect disparities in attrition rates across gender, grade, region, unit, function, and tenure to uncover inclusion challenges.
+* Evaluate opportunity equity in career progression
+  Analyze promotion and mobility equity by comparing rates across genders to identify disparities in access to growth opportunities.
 * Evaluate pay equity across comparable groups
-  Analyze salary differences between genders across grades and job families to assess compensation fairness.
+  Analyze salary differences between genders across grades, region, unit and job family to assess compensation fairness.
 * Develop a composite DEI score for decision-making
   Integrate multiple DEI dimensions into a single, standardized metric to track performance and guide strategic actions.
 
