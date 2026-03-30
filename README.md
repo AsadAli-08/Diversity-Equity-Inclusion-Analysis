@@ -225,7 +225,10 @@ DEI Score =
 
 ### 2. Female Representation
 
-
+*  Female Workforce Participation has shown a declining trend over the years.
+*  The analysis indicates similar female participation across grades.
+*  Technical functions such as Engineering & Manufacturing exhibit lower Female Participation compared to non technical functions like HR & Finance.
+*  Regionally, the Central and Western regions are the weakest performers, while the Eastern and Southern regions have performed better.
 
 ---
 
