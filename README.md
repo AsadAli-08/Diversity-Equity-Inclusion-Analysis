@@ -2,15 +2,19 @@
 
 ## Project Overview
 
-Organizations today are increasingly focused on building diverse, equitable, and inclusive workplaces, yet many struggle to translate data into actionable insights. This project presents a comprehensive Diversity, Equity & Inclusion (DEI) Analytics Dashboard that goes beyond basic reporting to deliver a structured, data-driven decision framework.
+Organizations today are increasingly focused on building diverse, equitable, and inclusive workplaces. However, many struggle to translate workforce data into meaningful, actionable insights. This project presents a comprehensive DEI Analytics Dashboard designed to bridge this gap by transforming raw HR data into a structured decision-making framework.
 
-Built using Power BI, SQL, and DAX, the solution integrates multiple dimensions like workforce data—representation, leadership diversity, attrition, pay, mobility and career progression—to provide a holistic view of DEI performance. It introduces a composite DEI score that consolidates these dimensions into a single, comparable metric, enabling leadership to quickly assess overall performance.
+Built using Power BI, Oracle SQL, Power Query, and DAX, the solution integrates multiple dimensions of workforce data—including representation, leadership diversity, attrition, pay equity, and career progression—to provide a holistic view of DEI performance across the organization.
 
-By highlighting gaps, identifying root causes, and prioritizing action areas, this project aims to empower HR and Top Management to move from reactive analysis to proactive decision-making.
+A key feature of this project is the development of a composite DEI score, which consolidates multiple DEI dimensions into a single, standardized metric. This enables leadership to quickly assess overall performance, track progress over time, and identify critical areas requiring intervention.
+
+The analysis highlights systemic gaps across the employee lifecycle—ranging from hiring and representation to progression, retention, and compensation. By uncovering root causes such as opportunity inequity and function-specific disparities, the dashboard supports data-driven HR strategy and governance.
+
+Ultimately, this project moves beyond descriptive reporting to deliver a proactive DEI decision framework, empowering HR and leadership teams to prioritize actions, improve equity, and drive sustainable organizational change.
 
 ---
 
-## Project Objectives
+## Objectives
 
 * Measure workforce diversity and representation:
   
